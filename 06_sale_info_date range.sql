@@ -11,7 +11,7 @@ SELECT
     c.TotalPrice,
     c.MonthlyPayment,
     c.Finance,
-    s.contracts_ID -- actual column names
+    s.contracts_ID 
 FROM 
     dealership d
 JOIN 
