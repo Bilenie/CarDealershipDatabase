@@ -1,4 +1,4 @@
--- 1)Find a car by VIN
+-- 3)Find a car by VIN
 USE cardealrshipdb;
 
 SELECT 

@@ -1,5 +1,5 @@
 -- 1)Get all dealerships
-USE cardealershipbd;
+USE cardealershipdb;
 
 SELECT 
    * 
